@@ -1,161 +1,165 @@
 {
-  "variableID": "SofarOperationalWaveModel-significantWaveHeight",
-  "variableName": "significantWaveHeight",
-  "dataCategory": "surfaceWaves",
-  "physicalUnit": "m",
-  "values": [
+  "forecastVariables": [
     {
-      "timestamp": "2020-07-09T12:00:00.000Z",
-      "value": 1.64999997615814,
-      "leadTimeHours": 6
+      "variableID": "SofarOperationalWaveModel-significantWaveHeight",
+      "variableName": "significantWaveHeight",
+      "dataCategory": "surfaceWaves",
+      "physicalUnit": "m",
+      "values": [
+        {
+          "timestamp": "2020-07-09T12:00:00.000Z",
+          "value": 1.64999997615814,
+          "leadTimeHours": 6
+        },
+        {
+          "timestamp": "2020-07-09T13:00:00.000Z",
+          "value": 1.59999990463257,
+          "leadTimeHours": 7
+        },
+        {
+          "timestamp": "2020-07-09T14:00:00.000Z",
+          "value": 1.55999994277954,
+          "leadTimeHours": 8
+        },
+        {
+          "timestamp": "2020-07-09T15:00:00.000Z",
+          "value": 1.51999998092651,
+          "leadTimeHours": 9
+        }
+      ]
     },
     {
-      "timestamp": "2020-07-09T13:00:00.000Z",
-      "value": 1.59999990463257,
-      "leadTimeHours": 7
-    },
-    {
-      "timestamp": "2020-07-09T14:00:00.000Z",
-      "value": 1.55999994277954,
-      "leadTimeHours": 8
-    },
-    {
-      "timestamp": "2020-07-09T15:00:00.000Z",
-      "value": 1.51999998092651,
-      "leadTimeHours": 9
-    }
-  ]
-},
-{
-  "variableID": "SofarOperationalWaveModel-significantWaveHeightFirstSwell",
-  "variableName": "significantWaveHeightFirstSwell",
-  "dataCategory": "surfaceWaves",
-  "physicalUnit": "m",
-  "values": [
-    {
-      "timestamp": "2020-07-09T12:00:00.000Z",
-      "value": 1.67999994754791,
-      "leadTimeHours": 6
-    },
-    {
-      "timestamp": "2020-07-09T13:00:00.000Z",
-      "value": 1.63999998569489,
-      "leadTimeHours": 7
-    },
-    {
-      "timestamp": "2020-07-09T14:00:00.000Z",
-      "value": 1.55999994277954,
-      "leadTimeHours": 8
-    },
-    {
-      "timestamp": "2020-07-09T15:00:00.000Z",
-      "value": 1.51999998092651,
-      "leadTimeHours": 9
-    },
-    {
-      "timestamp": "2020-07-09T16:00:00.000Z",
-      "value": 1.48000001907349,
-      "leadTimeHours": 10
-    },
-    {
-      "timestamp": "2020-07-09T17:00:00.000Z",
-      "value": 1.45999991893768,
-      "leadTimeHours": 11
-    },
-    {
-      "timestamp": "2020-07-09T18:00:00.000Z",
-      "value": 1.36000001430511,
-      "leadTimeHours": 12
-    },
-    {
-      "timestamp": "2020-07-09T19:00:00.000Z",
-      "value": 1.30999994277954,
-      "leadTimeHours": 13
-    },
-    {
-      "timestamp": "2020-07-09T20:00:00.000Z",
-      "value": 1.26999998092651,
-      "leadTimeHours": 14
-    },
-    {
-      "timestamp": "2020-07-09T21:00:00.000Z",
-      "value": 1.24000000953674,
-      "leadTimeHours": 15
-    },
-    {
-      "timestamp": "2020-07-09T22:00:00.000Z",
-      "value": 1.18999993801117,
-      "leadTimeHours": 16
-    },
-    {
-      "timestamp": "2020-07-09T23:00:00.000Z",
-      "value": 1.14999997615814,
-      "leadTimeHours": 17
-    },
-    {
-      "timestamp": "2020-07-10T00:00:00.000Z",
-      "value": 1.12999999523163,
-      "leadTimeHours": 18
-    },
-    {
-      "timestamp": "2020-07-10T01:00:00.000Z",
-      "value": 1.12000000476837,
-      "leadTimeHours": 19
-    },
-    {
-      "timestamp": "2020-07-10T02:00:00.000Z",
-      "value": 1.0900000333786,
-      "leadTimeHours": 20
-    },
-    {
-      "timestamp": "2020-07-10T03:00:00.000Z",
-      "value": 1.07999992370605,
-      "leadTimeHours": 21
-    },
-    {
-      "timestamp": "2020-07-10T04:00:00.000Z",
-      "value": 1.0699999332428,
-      "leadTimeHours": 22
-    },
-    {
-      "timestamp": "2020-07-10T05:00:00.000Z",
-      "value": 1.05999994277954,
-      "leadTimeHours": 23
-    },
-    {
-      "timestamp": "2020-07-10T06:00:00.000Z",
-      "value": 1.02999997138977,
-      "leadTimeHours": 24
-    },
-    {
-      "timestamp": "2020-07-10T07:00:00.000Z",
-      "value": 1.01999998092651,
-      "leadTimeHours": 25
-    },
-    {
-      "timestamp": "2020-07-10T08:00:00.000Z",
-      "value": 1,
-      "leadTimeHours": 26
-    },
-    {
-      "timestamp": "2020-07-10T09:00:00.000Z",
-      "value": 0.989999949932098,
-      "leadTimeHours": 27
-    },
-    {
-      "timestamp": "2020-07-10T10:00:00.000Z",
-      "value": 0.979999959468842,
-      "leadTimeHours": 28
-    },
-    {
-      "timestamp": "2020-07-10T11:00:00.000Z",
-      "value": 0.979999959468842,
-      "leadTimeHours": 29
-    },
-    {
-      "timestamp": "2020-07-10T12:00:00.000Z",
-      "value": 0.969999969005585,
-      "leadTimeHours": 30
+      "variableID": "SofarOperationalWaveModel-significantWaveHeightFirstSwell",
+      "variableName": "significantWaveHeightFirstSwell",
+      "dataCategory": "surfaceWaves",
+      "physicalUnit": "m",
+      "values": [
+        {
+          "timestamp": "2020-07-09T12:00:00.000Z",
+          "value": 1.67999994754791,
+          "leadTimeHours": 6
+        },
+        {
+          "timestamp": "2020-07-09T13:00:00.000Z",
+          "value": 1.63999998569489,
+          "leadTimeHours": 7
+        },
+        {
+          "timestamp": "2020-07-09T14:00:00.000Z",
+          "value": 1.55999994277954,
+          "leadTimeHours": 8
+        },
+        {
+          "timestamp": "2020-07-09T15:00:00.000Z",
+          "value": 1.51999998092651,
+          "leadTimeHours": 9
+        },
+        {
+          "timestamp": "2020-07-09T16:00:00.000Z",
+          "value": 1.48000001907349,
+          "leadTimeHours": 10
+        },
+        {
+          "timestamp": "2020-07-09T17:00:00.000Z",
+          "value": 1.45999991893768,
+          "leadTimeHours": 11
+        },
+        {
+          "timestamp": "2020-07-09T18:00:00.000Z",
+          "value": 1.36000001430511,
+          "leadTimeHours": 12
+        },
+        {
+          "timestamp": "2020-07-09T19:00:00.000Z",
+          "value": 1.30999994277954,
+          "leadTimeHours": 13
+        },
+        {
+          "timestamp": "2020-07-09T20:00:00.000Z",
+          "value": 1.26999998092651,
+          "leadTimeHours": 14
+        },
+        {
+          "timestamp": "2020-07-09T21:00:00.000Z",
+          "value": 1.24000000953674,
+          "leadTimeHours": 15
+        },
+        {
+          "timestamp": "2020-07-09T22:00:00.000Z",
+          "value": 1.18999993801117,
+          "leadTimeHours": 16
+        },
+        {
+          "timestamp": "2020-07-09T23:00:00.000Z",
+          "value": 1.14999997615814,
+          "leadTimeHours": 17
+        },
+        {
+          "timestamp": "2020-07-10T00:00:00.000Z",
+          "value": 1.12999999523163,
+          "leadTimeHours": 18
+        },
+        {
+          "timestamp": "2020-07-10T01:00:00.000Z",
+          "value": 1.12000000476837,
+          "leadTimeHours": 19
+        },
+        {
+          "timestamp": "2020-07-10T02:00:00.000Z",
+          "value": 1.0900000333786,
+          "leadTimeHours": 20
+        },
+        {
+          "timestamp": "2020-07-10T03:00:00.000Z",
+          "value": 1.07999992370605,
+          "leadTimeHours": 21
+        },
+        {
+          "timestamp": "2020-07-10T04:00:00.000Z",
+          "value": 1.0699999332428,
+          "leadTimeHours": 22
+        },
+        {
+          "timestamp": "2020-07-10T05:00:00.000Z",
+          "value": 1.05999994277954,
+          "leadTimeHours": 23
+        },
+        {
+          "timestamp": "2020-07-10T06:00:00.000Z",
+          "value": 1.02999997138977,
+          "leadTimeHours": 24
+        },
+        {
+          "timestamp": "2020-07-10T07:00:00.000Z",
+          "value": 1.01999998092651,
+          "leadTimeHours": 25
+        },
+        {
+          "timestamp": "2020-07-10T08:00:00.000Z",
+          "value": 1,
+          "leadTimeHours": 26
+        },
+        {
+          "timestamp": "2020-07-10T09:00:00.000Z",
+          "value": 0.989999949932098,
+          "leadTimeHours": 27
+        },
+        {
+          "timestamp": "2020-07-10T10:00:00.000Z",
+          "value": 0.979999959468842,
+          "leadTimeHours": 28
+        },
+        {
+          "timestamp": "2020-07-10T11:00:00.000Z",
+          "value": 0.979999959468842,
+          "leadTimeHours": 29
+        },
+        {
+          "timestamp": "2020-07-10T12:00:00.000Z",
+          "value": 0.969999969005585,
+          "leadTimeHours": 30
+        }
+      ]
     }
   ]
 }
