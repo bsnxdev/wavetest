@@ -1,14 +1,38 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "modelID": "SofarOperationalWaveModel",
+  "requestTime": "2020-07-09T12:31:41.934Z",
+  "requestLocation": {
+    "latitude": 51.103084822207705,
+    "longitude": -4.375135324405278
+  },
+  "forecastVariables": [
+    {
+      "variableID": "SofarOperationalWaveModel-significantWaveHeight",
+      "variableName": "significantWaveHeight",
+      "dataCategory": "surfaceWaves",
+      "physicalUnit": "m",
+      "values": [
+        {
+          "timestamp": "2020-07-09T12:00:00.000Z",
+          "value": 1.64999997615814,
+          "leadTimeHours": 6
+        },
+        {
+          "timestamp": "2020-07-09T13:00:00.000Z",
+          "value": 1.59999990463257,
+          "leadTimeHours": 7
+        },
+        {
+          "timestamp": "2020-07-09T14:00:00.000Z",
+          "value": 1.55999994277954,
+          "leadTimeHours": 8
+        },
+        {
+          "timestamp": "2020-07-09T15:00:00.000Z",
+          "value": 1.51999998092651,
+          "leadTimeHours": 9
+        }
+      ]
+    }
+  ]
 }
