@@ -1,38 +1,24 @@
 {
-  "modelID": "SofarOperationalWaveModel",
-  "requestTime": "2020-07-09T12:31:41.934Z",
-  "requestLocation": {
-    "latitude": 51.103084822207705,
-    "longitude": -4.375135324405278
-  },
-  "forecastVariables": [
+  "values": [
     {
-      "variableID": "SofarOperationalWaveModel-significantWaveHeight",
-      "variableName": "significantWaveHeight",
-      "dataCategory": "surfaceWaves",
-      "physicalUnit": "m",
-      "values": [
-        {
-          "timestamp": "2020-07-09T12:00:00.000Z",
-          "value": 1.64999997615814,
-          "leadTimeHours": 6
-        },
-        {
-          "timestamp": "2020-07-09T13:00:00.000Z",
-          "value": 1.59999990463257,
-          "leadTimeHours": 7
-        },
-        {
-          "timestamp": "2020-07-09T14:00:00.000Z",
-          "value": 1.55999994277954,
-          "leadTimeHours": 8
-        },
-        {
-          "timestamp": "2020-07-09T15:00:00.000Z",
-          "value": 1.51999998092651,
-          "leadTimeHours": 9
-        }
-      ]
+      "timestamp": "2020-07-09T12:00:00.000Z",
+      "value": 1.64999997615814,
+      "leadTimeHours": 6
+    },
+    {
+      "timestamp": "2020-07-09T13:00:00.000Z",
+      "value": 1.59999990463257,
+      "leadTimeHours": 7
+    },
+    {
+      "timestamp": "2020-07-09T14:00:00.000Z",
+      "value": 1.55999994277954,
+      "leadTimeHours": 8
+    },
+    {
+      "timestamp": "2020-07-09T15:00:00.000Z",
+      "value": 1.51999998092651,
+      "leadTimeHours": 9
     }
   ]
 }
