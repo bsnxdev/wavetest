@@ -239,6 +239,54 @@
           "leadTimeHours": 13
         }
       ]
+    },
+    {
+      "variableID": "HYCOM-seaSurfaceTemperature",
+      "variableName": "seaSurfaceTemperature",
+      "defaultPhysicalUnit": "Celsius degree",
+      "dataCategory": "circulation",
+      "values": [
+        {
+          "timestamp": "2020-07-09T12:00:00.000Z",
+          "value": 10.0,
+          "leadTimeHours": 6
+        },
+        {
+          "timestamp": "2020-07-09T13:00:00.000Z",
+          "value": 12.0,
+          "leadTimeHours": 7
+        },
+        {
+          "timestamp": "2020-07-09T14:00:00.000Z",
+          "value": 16.0,
+          "leadTimeHours": 8
+        },
+        {
+          "timestamp": "2020-07-09T15:00:00.000Z",
+          "value": 18.0,
+          "leadTimeHours": 9
+        },
+        {
+          "timestamp": "2020-07-09T16:00:00.000Z",
+          "value": 20.0,
+          "leadTimeHours": 10
+        },
+        {
+          "timestamp": "2020-07-09T17:00:00.000Z",
+          "value": 18.0,
+          "leadTimeHours": 11
+        },
+        {
+          "timestamp": "2020-07-09T17:00:00.000Z",
+          "value": 16.0,
+          "leadTimeHours": 12
+        },
+        {
+          "timestamp": "2020-07-09T18:00:00.000Z",
+          "value": 14.0,
+          "leadTimeHours": 13
+        }
+      ]
     }
   ]
 }
