@@ -56,7 +56,7 @@
       "values": [
         {
           "timestamp": "2020-07-09T12:00:00.000Z",
-          "value": 2.0,
+          "value": 2.01,
           "leadTimeHours": 6
         },
         {
@@ -66,7 +66,7 @@
         },
         {
           "timestamp": "2020-07-09T14:00:00.000Z",
-          "value": 3.0,
+          "value": 3.01,
           "leadTimeHours": 8
         },
         {
@@ -76,7 +76,7 @@
         },
         {
           "timestamp": "2020-07-09T16:00:00.000Z",
-          "value": 4.0,
+          "value": 4.01,
           "leadTimeHours": 10
         },
         {
@@ -86,7 +86,7 @@
         },
         {
           "timestamp": "2020-07-09T17:00:00.000Z",
-          "value": 5.0,
+          "value": 5.01,
           "leadTimeHours": 12
         },
         {
@@ -152,42 +152,42 @@
       "values": [
         {
           "timestamp": "2020-07-09T12:00:00.000Z",
-          "value": 0.0,
+          "value": 0.01,
           "leadTimeHours": 6
         },
         {
           "timestamp": "2020-07-09T13:00:00.000Z",
-          "value": 30.0,
+          "value": 30.01,
           "leadTimeHours": 7
         },
         {
           "timestamp": "2020-07-09T14:00:00.000Z",
-          "value": 60.0,
+          "value": 60.01,
           "leadTimeHours": 8
         },
         {
           "timestamp": "2020-07-09T15:00:00.000Z",
-          "value": 90.0,
+          "value": 90.01,
           "leadTimeHours": 9
         },
         {
           "timestamp": "2020-07-09T16:00:00.000Z",
-          "value": 120.0,
+          "value": 120.01,
           "leadTimeHours": 10
         },
         {
           "timestamp": "2020-07-09T17:00:00.000Z",
-          "value": 150.0,
+          "value": 150.01,
           "leadTimeHours": 11
         },
         {
           "timestamp": "2020-07-09T17:00:00.000Z",
-          "value": 180.0,
+          "value": 180.01,
           "leadTimeHours": 12
         },
         {
           "timestamp": "2020-07-09T18:00:00.000Z",
-          "value": 210.0,
+          "value": 210.01,
           "leadTimeHours": 13
         }
       ]
@@ -200,7 +200,7 @@
       "values": [
         {
           "timestamp": "2020-07-09T12:00:00.000Z",
-          "value": 2.0,
+          "value": 2.01,
           "leadTimeHours": 6
         },
         {
@@ -210,7 +210,7 @@
         },
         {
           "timestamp": "2020-07-09T14:00:00.000Z",
-          "value": 3.0,
+          "value": 3.01,
           "leadTimeHours": 8
         },
         {
@@ -220,7 +220,7 @@
         },
         {
           "timestamp": "2020-07-09T16:00:00.000Z",
-          "value": 4.0,
+          "value": 4.01,
           "leadTimeHours": 10
         },
         {
@@ -230,7 +230,7 @@
         },
         {
           "timestamp": "2020-07-09T17:00:00.000Z",
-          "value": 5.0,
+          "value": 5.01,
           "leadTimeHours": 12
         },
         {
@@ -248,42 +248,42 @@
       "values": [
         {
           "timestamp": "2020-07-09T12:00:00.000Z",
-          "value": 10.0,
+          "value": 10.01,
           "leadTimeHours": 6
         },
         {
           "timestamp": "2020-07-09T13:00:00.000Z",
-          "value": 12.0,
+          "value": 12.01,
           "leadTimeHours": 7
         },
         {
           "timestamp": "2020-07-09T14:00:00.000Z",
-          "value": 16.0,
+          "value": 16.01,
           "leadTimeHours": 8
         },
         {
           "timestamp": "2020-07-09T15:00:00.000Z",
-          "value": 18.0,
+          "value": 18.01,
           "leadTimeHours": 9
         },
         {
           "timestamp": "2020-07-09T16:00:00.000Z",
-          "value": 20.0,
+          "value": 20.01,
           "leadTimeHours": 10
         },
         {
           "timestamp": "2020-07-09T17:00:00.000Z",
-          "value": 18.0,
+          "value": 18.01,
           "leadTimeHours": 11
         },
         {
           "timestamp": "2020-07-09T17:00:00.000Z",
-          "value": 16.0,
+          "value": 16.01,
           "leadTimeHours": 12
         },
         {
           "timestamp": "2020-07-09T18:00:00.000Z",
-          "value": 14.0,
+          "value": 14.01,
           "leadTimeHours": 13
         }
       ]
